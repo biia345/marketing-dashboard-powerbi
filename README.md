@@ -18,7 +18,7 @@ Monitorar indicadores como investimento, impressões, cliques, conversões e cus
 - Visualizações interativas
 
 ## 📷 Preview
-![Dashboard Preview]()
+![Dashboard Preview](Imagem/dashboard-preview.png)
 
 
 ## 📁 Arquivo
@@ -26,6 +26,7 @@ O arquivo `.pbix` está disponível na pasta `Arquivos/`.
 
 ## 📬 Contato
 Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](http://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a).
+
 
 
 
